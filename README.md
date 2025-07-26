@@ -8,7 +8,7 @@ I’m a **Systems Engineering student** passionate about **web development** �
 I enjoy building efficient, scalable solutions and constantly learning new tools and frameworks.  
 Currently, I’m improving my skills in **React**, **Spring Boot**, **JavaScripts**, **Python** and **DevOps**.
 
-- 🌱 **I’m currently learning:** React, Docker, and CI/CD.  
+- 🌱 I’m currently learning: Spring Boot, microservices, Docker, and CI/CD.
 - 👯 **Open to collaborate on:** Open-source projects or innovative ideas.  
 - 💬 **Ask me about:** Web development, APIs, and backend design.  
 
