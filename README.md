@@ -45,7 +45,7 @@ Currently, I’m improving my skills in **React**, **Spring Boot**, **JavaScript
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
 | 🌟 **PetManager - Customer Management** | Backend for customer management in a pet products and services store. | Spring Boot, PostgreSQL, Docker  | [GitHub](https://github.com/SAmaya29/Gestor-de-clientes) |
-| 🚀 **Movie-API** | REST API to manage and search movies | Java, TMDB API | [GitHub](https://github.com/SAmaya29/API) |
+| 🚀 **Movie-API** | REST API to manage and search movies | Java, TMDB API, GitHub Actions | [GitHub](https://github.com/SAmaya29/API) |
 | 📊 **Chaos Scheduler** | OS process scheduler with chaos engineering | Python | [GitHub](https://github.com/SAmaya29/scheduler-chaos-simulator) |
 
 ---
